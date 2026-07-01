@@ -1,3 +1,3 @@
 1.0.1
 https://raw.githubusercontent.com/Amaza-Ronald/esp32-radio-firmware/main/bt_radio_ota.ino.bin
-51971fd6961c4b99829e090cd9fc4043
+4f02f002ef716afdf69c0858a5f932d1
